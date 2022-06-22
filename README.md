@@ -1,4 +1,3 @@
-<details>
 <summary>Assemble transcriptome</summary>
 
 Since I need to predict sRNA target sites that might be located on UTRs of genes, transcriptome was re-assembled even though CDS sequences were known.
@@ -19,5 +18,4 @@ Map transcripts to annotated genes.
 
 > sbatch [scripts/transcriptome_assembly/minimap2.sh](https://github.com/qslin/flayed_RNA_analysis/blob/master/scripts/transcriptome_assembly/minimap2.sh)
 
-</details>
 
